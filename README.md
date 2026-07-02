@@ -74,8 +74,6 @@ cp .env.example .env   # já aponta para http://localhost:3333/api
 npm run dev             # inicia em http://localhost:5173
 ```
 
-Acesse `http://localhost:5173` e faça login com um dos usuários de teste.
-
 ## Principais rotas da API
 
 | Método | Rota | Descrição |
