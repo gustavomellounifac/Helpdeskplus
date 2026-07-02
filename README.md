@@ -47,7 +47,7 @@ Crie o banco no MySQL:
 CREATE DATABASE helpdesk;
 ```
 
-### 2. Backend
+### 2. Rodar o backend
 
 ```bash
 cd backend
@@ -63,7 +63,7 @@ Usuários de teste criados pelo seed (senha `123456`):
 - `tecnico@helpdesk.com` — técnico
 - `cliente@helpdesk.com` — cliente
 
-### 3. Frontend
+### 3. Rodar o frontend
 
 Em outro terminal:
 
